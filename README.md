@@ -12,6 +12,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/esahmohammed/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/esahmohammed/azure-network-protocols)
   - [Building Intuition for DNS](https://github.com/esahmohammed/dns-intuition)
+  - [Network File Shares and Permissions](https://github.com/esahmohammed/network-file-sharing)
   
 
 
