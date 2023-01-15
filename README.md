@@ -8,8 +8,11 @@
   - [osTicket: Post-Installation Configuration](https://github.com/esahmohammed/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/esahmohammed/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [VPN Setup and Usage](https://github.com/esahmohammed/vpn-setup)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/esahmohammed/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/esahmohammed/azure-network-protocols)
+  
+
 
 <h2>🤳Connect with me:</h2>
 
